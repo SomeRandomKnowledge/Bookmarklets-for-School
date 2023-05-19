@@ -9,4 +9,4 @@ chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/manifest.json
 
 If the extension page (bookmark A) no longer loads, then it worked! You can close your tabs and the extension will basically be dead. If nothing loads, then you probably reloaded too late or spammed too slow. This isn't rocket science! Restart your computer to revert back to normal. 
 
-<iframe src="https://drive.google.com/file/d/1YXBUk0HjqcvDeZKJ0ySYtwePIPPBhOwp/preview" width="640" height="480" allow="autoplay"></iframe>
+[![Watch the video](https://drive.google.com/file/d/1YXBUk0HjqcvDeZKJ0ySYtwePIPPBhOwp/preview)
