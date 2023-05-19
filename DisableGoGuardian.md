@@ -10,4 +10,6 @@ chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/manifest.json
 If the extension page (bookmark A) no longer loads, then it worked! You can close your tabs and the extension will basically be dead. If nothing loads, then you probably reloaded too late or spammed too slow. This isn't rocket science! Restart your computer to revert back to normal. 
 
 
-<video src="videos/disable.mp3">
+<video width="320" height="240" controls>
+  <source src="videos/disable.mp4" type="video/mp4">
+</video>
